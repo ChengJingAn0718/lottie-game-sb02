@@ -49,12 +49,17 @@ export default React.forwardRef(function LetterExplain({ nextFunc, audioList, _g
     useEffect(
         () => {
 
+         
+
 
             moveFunc(aniObjectRef, 0, 'translateX(180%)')
             moveFunc(backgroundRef, 0, 'translateX(-100%)')
 
             audioList.bodyAudio1.src = prePathUrl() + "sounds/origin/ep_02_audio_02.mp3" //hello voice
             audioList.bodyAudio2.src = prePathUrl() + "sounds/origin/ep_02_audio_54.mp3"   //exlain voice  
+
+
+            
 
             return () => {
 
@@ -103,7 +108,7 @@ export default React.forwardRef(function LetterExplain({ nextFunc, audioList, _g
     }
 
     function zoomFunc() {
-        moveFunc(backgroundRef, durationList[2], 'scale(0.4) translate(-25%,-75%)')
+        moveFunc(backgroundRef, durationList[2], 'scale(0.8) translate(-15%,-25%)')
 
         timerList[4] = setTimeout(() => {
             nextFunc()
