@@ -1,0 +1,46 @@
+<svg id="eee308ca-ddc3-462b-b4e1-576acb2087db" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="41.67" height="20.63" viewBox="0 0 41.67 20.63">
+  <defs>
+    <style>
+      .a9a4139d-8944-40a5-99c1-1e0650f9376b {
+        fill: #fff;
+        stroke: #111;
+      }
+
+      .a9a4139d-8944-40a5-99c1-1e0650f9376b, .bca2d28b-2d54-4c84-81c3-bcdc8c2c7b76 {
+        stroke-miterlimit: 10;
+        stroke-width: 0.86px;
+      }
+
+      .a30a2262-ca1d-441f-a917-cf45a499b225, .bca2d28b-2d54-4c84-81c3-bcdc8c2c7b76 {
+        fill: #519fe2;
+      }
+
+      .bca2d28b-2d54-4c84-81c3-bcdc8c2c7b76 {
+        stroke: #030d54;
+      }
+
+      .fb4c8a4a-0acd-4d16-a1bb-7f67f9d6e705 {
+        fill: #00001e;
+      }
+
+      .b4c2d6e9-82a8-4132-b32b-831d7a5593cf {
+        fill: #fafaff;
+      }
+    </style>
+  </defs>
+  <g>
+    <g>
+      <ellipse class="a9a4139d-8944-40a5-99c1-1e0650f9376b" cx="9.49" cy="10.32" rx="7.67" ry="9.44" transform="translate(-2.68 3.36) rotate(-17.62)"/>
+      <ellipse class="bca2d28b-2d54-4c84-81c3-bcdc8c2c7b76" cx="9.49" cy="10.32" rx="4.4" ry="5.41" transform="matrix(0.95, -0.3, 0.3, 0.95, -2.68, 3.36)"/>
+      <ellipse class="fb4c8a4a-0acd-4d16-a1bb-7f67f9d6e705" cx="9.7" cy="11.14" rx="3.02" ry="3.71" transform="translate(-1.02 0.98) rotate(-5.5)"/>
+      <ellipse class="b4c2d6e9-82a8-4132-b32b-831d7a5593cf" cx="10.45" cy="8.21" rx="1.17" ry="1.11"/>
+      <ellipse class="b4c2d6e9-82a8-4132-b32b-831d7a5593cf" cx="9.77" cy="14.15" rx="0.75" ry="0.71"/>
+    </g>
+    <g>
+      <path class="a9a4139d-8944-40a5-99c1-1e0650f9376b" d="M34.84,4.88s3.39-1.58,4.92,4.76c0,0,1.14,5-1.26,8.57a13,13,0,0,1-4.37-7.89S33.59,6,34.84,4.88Z"/>
+      <path class="a30a2262-ca1d-441f-a917-cf45a499b225" d="M37.68,10.56a6.23,6.23,0,0,1-1.28,4.69c-.29.39-2-4.81-2-4.81l0-3.42S36.91,6.7,37.68,10.56Z"/>
+      <path class="fb4c8a4a-0acd-4d16-a1bb-7f67f9d6e705" d="M34.41,8.21a2.7,2.7,0,0,1,2.34,2.93c0,2.7-1.17,3.46-1.17,3.46a12.84,12.84,0,0,1-1.45-4.28C34,8.45,34,8.19,34,8.19"/>
+      <ellipse class="b4c2d6e9-82a8-4132-b32b-831d7a5593cf" cx="35.61" cy="8.92" rx="0.85" ry="1.07"/>
+    </g>
+  </g>
+</svg>

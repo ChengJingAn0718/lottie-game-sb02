@@ -1,0 +1,42 @@
+<svg id="b8edd469-20eb-41d2-8669-9da345b23b65" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="262.86" height="465.71" viewBox="0 0 262.86 465.71">
+  <defs>
+    <style>
+      .a56e42df-4fb7-4674-8925-61174d603fe2, .ad76b728-4d5a-46a7-982c-86751f5c9855, .be7d0efc-4a8a-4d5b-a5e1-9a24d732ee43 {
+        fill: none;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: 3px;
+      }
+
+      .ad76b728-4d5a-46a7-982c-86751f5c9855 {
+        stroke-dasharray: 12 12;
+      }
+
+      .a462b761-1dd1-4d8e-a383-c4bb468df777 {
+        fill: #fff;
+      }
+
+      .a56e42df-4fb7-4674-8925-61174d603fe2 {
+        stroke-dasharray: 11.36 11.36;
+      }
+    </style>
+  </defs>
+  <g>
+    <g>
+      <g>
+        <path class="ad76b728-4d5a-46a7-982c-86751f5c9855" d="M161.48,54S111.76,35.26,74.75,65.09C52.59,83,45.48,103.38,43.58,118.68"/>
+        <polygon class="a462b761-1dd1-4d8e-a383-c4bb468df777" points="29.12 114.16 43.82 140.21 59.03 114.46 29.12 114.16"/>
+      </g>
+      <g>
+        <path class="ad76b728-4d5a-46a7-982c-86751f5c9855" d="M44.44,148.08s15,95.39,113.9,66.25"/>
+        <polygon class="a462b761-1dd1-4d8e-a383-c4bb468df777" points="159.02 229.67 178.6 207.06 149.23 201.4 159.02 229.67"/>
+      </g>
+    </g>
+    <g>
+      <path class="be7d0efc-4a8a-4d5b-a5e1-9a24d732ee43" d="M186.1,204.81a30.54,30.54,0,0,0,5.11-3.12"/>
+      <path class="a56e42df-4fb7-4674-8925-61174d603fe2" d="M199.57,194c8.49-9.62,17.78-26.75,17.42-55.5-.32-25.94-.33-51.71-.25-71.15"/>
+      <path class="be7d0efc-4a8a-4d5b-a5e1-9a24d732ee43" d="M216.77,61.68q0-3.13,0-6"/>
+      <polygon class="a462b761-1dd1-4d8e-a383-c4bb468df777" points="231.75 60.18 216.99 34.16 201.84 59.96 231.75 60.18"/>
+    </g>
+  </g>
+</svg>

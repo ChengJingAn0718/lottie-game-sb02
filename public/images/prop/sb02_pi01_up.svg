@@ -1,0 +1,40 @@
+<svg id="f91b0a77-b6af-438c-b74c-99fbfe8fba13" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="176.16" height="176.16" viewBox="0 0 176.16 176.16">
+  <defs>
+    <style>
+      .e1d88351-1c8d-4f7f-a564-41e7948c8825 {
+        fill: none;
+      }
+
+      .f24aa1eb-c438-412c-9dd6-0dcd1d8dfaa6 {
+        fill: #231f20;
+      }
+
+      .fcf245a1-144d-4d69-a86c-1f3fc2716ab9 {
+        opacity: 0.5;
+      }
+
+      .a9d9c780-7d65-4030-9a9d-e2c12082a6c8 {
+        fill: #fff;
+      }
+
+      .ecaa209e-6635-4a5e-82bc-f398e4d3e4c9 {
+        fill: #feff33;
+        stroke: #323232;
+        stroke-miterlimit: 10;
+        stroke-width: 3px;
+      }
+    </style>
+    <symbol id="b165c6f7-82ca-404b-99b8-7b6cf3c4bd7a" data-name="Arrow 26" viewBox="0 0 45.72 26.28">
+      <rect class="e1d88351-1c8d-4f7f-a564-41e7948c8825" width="45.72" height="26.28"/>
+      <polygon class="f24aa1eb-c438-412c-9dd6-0dcd1d8dfaa6" points="0 19.48 22.93 19.48 22.93 26.28 45.72 13.14 22.93 0 22.93 6.8 0 6.8 0 19.48"/>
+    </symbol>
+  </defs>
+  <g>
+    <circle class="fcf245a1-144d-4d69-a86c-1f3fc2716ab9" cx="90.58" cy="90.58" r="81.98" transform="translate(-37.52 90.58) rotate(-45)"/>
+    <g>
+      <circle class="a9d9c780-7d65-4030-9a9d-e2c12082a6c8" cx="85.58" cy="85.58" r="81.98" transform="translate(-35.45 85.58) rotate(-45)"/>
+      <circle class="ecaa209e-6635-4a5e-82bc-f398e4d3e4c9" cx="85.58" cy="85.58" r="73.98"/>
+    </g>
+    <use width="45.72" height="26.28" transform="translate(59.99 130.1) rotate(-90) scale(1.95)" xlink:href="#b165c6f7-82ca-404b-99b8-7b6cf3c4bd7a"/>
+  </g>
+</svg>

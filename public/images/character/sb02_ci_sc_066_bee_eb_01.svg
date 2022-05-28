@@ -1,0 +1,33 @@
+<svg id="eda2bc96-8334-4ab9-96e3-7436ec2231ce" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="140.82" height="113.29" viewBox="0 0 140.82 113.29">
+  <defs>
+    <style>
+      .b9f11e87-5cce-4cb2-a531-dec14b4d0aa4, .bd64eb05-85cb-4c8d-b4dd-6b272616810d {
+        fill: #fff;
+      }
+
+      .bd64eb05-85cb-4c8d-b4dd-6b272616810d {
+        stroke: #702840;
+        stroke-miterlimit: 10;
+        stroke-width: 0.75px;
+      }
+
+      .bcfc6d6e-5390-432d-a90a-ab571039b0d4 {
+        fill: #210a11;
+      }
+    </style>
+  </defs>
+  <g>
+    <g>
+      <ellipse class="bd64eb05-85cb-4c8d-b4dd-6b272616810d" cx="36.02" cy="62.7" rx="32.67" ry="24.09" transform="translate(-31.1 89.59) rotate(-81.96)"/>
+      <ellipse class="bcfc6d6e-5390-432d-a90a-ab571039b0d4" cx="47.39" cy="62.08" rx="14.71" ry="10.92" transform="translate(-17.7 105.25) rotate(-86.19)"/>
+      <ellipse class="b9f11e87-5cce-4cb2-a531-dec14b4d0aa4" cx="54.23" cy="58.98" rx="4.04" ry="3" transform="translate(-8.21 109.17) rotate(-86.19)"/>
+    </g>
+    <g>
+      <ellipse class="bd64eb05-85cb-4c8d-b4dd-6b272616810d" cx="102.45" cy="65.72" rx="21.91" ry="29.71" transform="matrix(1, -0.08, 0.08, 1, -4.98, 8.51)"/>
+      <ellipse class="bcfc6d6e-5390-432d-a90a-ab571039b0d4" cx="113.5" cy="65.81" rx="9.93" ry="13.38" transform="matrix(0.99, -0.15, 0.15, 0.99, -8.8, 18.3)"/>
+      <ellipse class="b9f11e87-5cce-4cb2-a531-dec14b4d0aa4" cx="118.99" cy="60.3" rx="2.72" ry="3.67" transform="translate(-7.88 19.08) rotate(-8.88)"/>
+    </g>
+    <path class="bcfc6d6e-5390-432d-a90a-ab571039b0d4" d="M94.67,21.34s10.1.26,22.57,11.25C117.24,32.59,98.85,3.86,94.67,21.34Z"/>
+    <path class="bcfc6d6e-5390-432d-a90a-ab571039b0d4" d="M54.75,13.37S43.7,12,28,20.77C28,20.77,53.61-4.57,54.75,13.37Z"/>
+  </g>
+</svg>

@@ -1,0 +1,75 @@
+<svg id="ae09cefa-795f-4938-b66e-41e8d6725959" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="90" height="50" viewBox="0 0 90 50">
+  <defs>
+    <style>
+      .aafe8e3f-9b5e-41e5-8950-0e7dd126f7fc, .ad961a38-89a8-4d15-b229-f8096798a67d, .bbd7899f-8ae7-48de-bebd-9c193981081a, .e1342504-30a6-4e19-b045-9642f37569e2, .eb38c2b5-a502-4468-a6d3-0a1e9319db5d {
+        fill: #fff;
+      }
+
+      .aafe8e3f-9b5e-41e5-8950-0e7dd126f7fc, .eb38c2b5-a502-4468-a6d3-0a1e9319db5d {
+        stroke: #4f2102;
+      }
+
+      .aafe8e3f-9b5e-41e5-8950-0e7dd126f7fc, .ad961a38-89a8-4d15-b229-f8096798a67d, .b90538a9-6706-4f22-932f-55bd5f1ec809, .bbd7899f-8ae7-48de-bebd-9c193981081a, .e1342504-30a6-4e19-b045-9642f37569e2, .eb38c2b5-a502-4468-a6d3-0a1e9319db5d {
+        stroke-miterlimit: 10;
+      }
+
+      .eb38c2b5-a502-4468-a6d3-0a1e9319db5d {
+        stroke-width: 0.64px;
+      }
+
+      .b90538a9-6706-4f22-932f-55bd5f1ec809 {
+        fill: #4f2305;
+        stroke-width: 0.35px;
+      }
+
+      .ad961a38-89a8-4d15-b229-f8096798a67d, .b90538a9-6706-4f22-932f-55bd5f1ec809, .bbd7899f-8ae7-48de-bebd-9c193981081a, .e1342504-30a6-4e19-b045-9642f37569e2 {
+        stroke: #020b3f;
+      }
+
+      .f0a98f8f-1dac-4723-aae8-1cdf026d26b8 {
+        fill: #091204;
+      }
+
+      .ad961a38-89a8-4d15-b229-f8096798a67d {
+        stroke-width: 0.07px;
+      }
+
+      .bbd7899f-8ae7-48de-bebd-9c193981081a {
+        stroke-width: 0.12px;
+        opacity: 0.1;
+      }
+
+      .ababa1ef-886d-4208-bc19-e8949d36b5ef {
+        fill: #160b0c;
+      }
+
+      .aafe8e3f-9b5e-41e5-8950-0e7dd126f7fc {
+        stroke-width: 0.61px;
+      }
+
+      .e1342504-30a6-4e19-b045-9642f37569e2 {
+        stroke-width: 0.07px;
+      }
+    </style>
+  </defs>
+  <g>
+    <g>
+      <ellipse class="eb38c2b5-a502-4468-a6d3-0a1e9319db5d" cx="17.6" cy="29.2" rx="13.08" ry="16.42" transform="translate(-4.84 3.53) rotate(-10.08)"/>
+      <ellipse class="b90538a9-6706-4f22-932f-55bd5f1ec809" cx="17.98" cy="31.19" rx="7.33" ry="9.04" transform="translate(-5.18 3.63) rotate(-10.08)"/>
+      <ellipse class="f0a98f8f-1dac-4723-aae8-1cdf026d26b8" cx="17.9" cy="31.89" rx="4.4" ry="5.19" transform="translate(-7.28 5.37) rotate(-14.21)"/>
+      <ellipse class="ad961a38-89a8-4d15-b229-f8096798a67d" cx="22.18" cy="29.54" rx="1.54" ry="1.64" transform="translate(-3.13 2.63) rotate(-6.34)"/>
+      <circle class="bbd7899f-8ae7-48de-bebd-9c193981081a" cx="15.51" cy="26.4" r="2.72"/>
+      <path class="ababa1ef-886d-4208-bc19-e8949d36b5ef" d="M29.63,47.88s-15.4-1.56-24-2.78C5.58,45.1,21.41,44.28,29.63,47.88Z"/>
+    </g>
+    <g>
+      <ellipse class="aafe8e3f-9b5e-41e5-8950-0e7dd126f7fc" cx="70.05" cy="17.52" rx="12.09" ry="15.66" transform="translate(-2.1 20.49) rotate(-16.4)"/>
+      <g>
+        <ellipse class="b90538a9-6706-4f22-932f-55bd5f1ec809" cx="68.33" cy="21.93" rx="6.77" ry="8.62" transform="translate(-3.41 20.19) rotate(-16.4)"/>
+        <ellipse class="f0a98f8f-1dac-4723-aae8-1cdf026d26b8" cx="68.06" cy="22.54" rx="3.99" ry="5.38" transform="translate(-3.6 20.14) rotate(-16.4)"/>
+        <ellipse class="e1342504-30a6-4e19-b045-9642f37569e2" cx="71.52" cy="19.65" rx="1.46" ry="1.55" transform="translate(-1.73 8.02) rotate(-6.34)"/>
+        <circle class="bbd7899f-8ae7-48de-bebd-9c193981081a" cx="66.04" cy="16.71" r="2.69"/>
+      </g>
+      <path class="ababa1ef-886d-4208-bc19-e8949d36b5ef" d="M85.59,27.56S74.14,33.84,67.5,37.1C67.5,37.1,77.88,28.68,85.59,27.56Z"/>
+    </g>
+  </g>
+</svg>

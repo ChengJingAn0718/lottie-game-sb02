@@ -1,0 +1,81 @@
+<svg id="a61ae03f-2642-4a42-ad4e-b1cb76aa7e4b" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="90" height="50" viewBox="0 0 90 50">
+  <defs>
+    <style>
+      .b52b8684-c508-4333-93e4-c9b84508f4c8, .b62b31aa-2b64-4ceb-9147-b0a6ce65f6ae, .e345b6d2-4646-442b-afff-a91c9a9cb0ae, .e831df4a-19a2-44c4-8939-faad1ed17104, .fcb80687-b6c3-43cd-815c-3c5fa9b66e0f {
+        fill: #fff;
+      }
+
+      .b62b31aa-2b64-4ceb-9147-b0a6ce65f6ae, .e345b6d2-4646-442b-afff-a91c9a9cb0ae {
+        stroke: #4f2102;
+      }
+
+      .b52b8684-c508-4333-93e4-c9b84508f4c8, .b62b31aa-2b64-4ceb-9147-b0a6ce65f6ae, .bd1b4efa-486d-48f4-9ef1-635aae90e84e, .e345b6d2-4646-442b-afff-a91c9a9cb0ae, .e831df4a-19a2-44c4-8939-faad1ed17104, .fcb80687-b6c3-43cd-815c-3c5fa9b66e0f {
+        stroke-miterlimit: 10;
+      }
+
+      .b62b31aa-2b64-4ceb-9147-b0a6ce65f6ae {
+        stroke-width: 0.64px;
+      }
+
+      .bd1b4efa-486d-48f4-9ef1-635aae90e84e {
+        fill: #4f2305;
+        stroke-width: 0.35px;
+      }
+
+      .b52b8684-c508-4333-93e4-c9b84508f4c8, .bd1b4efa-486d-48f4-9ef1-635aae90e84e, .e831df4a-19a2-44c4-8939-faad1ed17104, .fcb80687-b6c3-43cd-815c-3c5fa9b66e0f {
+        stroke: #020b3f;
+      }
+
+      .f62123a4-d86c-4648-87ab-b8f0caa46958 {
+        fill: #091204;
+      }
+
+      .fcb80687-b6c3-43cd-815c-3c5fa9b66e0f {
+        stroke-width: 0.07px;
+      }
+
+      .e831df4a-19a2-44c4-8939-faad1ed17104 {
+        stroke-width: 0.12px;
+        opacity: 0.1;
+      }
+
+      .a51d5c7d-e17a-4efd-b7d9-2f5575acdde9 {
+        fill: #160b0c;
+      }
+
+      .ae2513b0-f9a3-448d-8d2d-f03c0834d472 {
+        fill: #4f2102;
+      }
+
+      .e345b6d2-4646-442b-afff-a91c9a9cb0ae {
+        stroke-width: 0.61px;
+      }
+
+      .b52b8684-c508-4333-93e4-c9b84508f4c8 {
+        stroke-width: 0.07px;
+      }
+    </style>
+  </defs>
+  <g>
+    <g>
+      <ellipse class="b62b31aa-2b64-4ceb-9147-b0a6ce65f6ae" cx="17.6" cy="29.2" rx="13.08" ry="16.42" transform="translate(-4.84 3.53) rotate(-10.08)"/>
+      <ellipse class="bd1b4efa-486d-48f4-9ef1-635aae90e84e" cx="17.98" cy="31.19" rx="7.33" ry="9.04" transform="translate(-5.18 3.63) rotate(-10.08)"/>
+      <ellipse class="f62123a4-d86c-4648-87ab-b8f0caa46958" cx="17.9" cy="31.89" rx="4.4" ry="5.19" transform="translate(-7.28 5.37) rotate(-14.21)"/>
+      <ellipse class="fcb80687-b6c3-43cd-815c-3c5fa9b66e0f" cx="22.18" cy="29.54" rx="1.54" ry="1.64" transform="translate(-3.13 2.63) rotate(-6.34)"/>
+      <circle class="e831df4a-19a2-44c4-8939-faad1ed17104" cx="15.51" cy="26.4" r="2.72"/>
+      <path class="a51d5c7d-e17a-4efd-b7d9-2f5575acdde9" d="M29.63,47.88s-15.4-1.56-24-2.78C5.58,45.1,21.41,44.28,29.63,47.88Z"/>
+      <ellipse class="ae2513b0-f9a3-448d-8d2d-f03c0834d472" cx="17.6" cy="29.2" rx="13.08" ry="16.42" transform="translate(-4.84 3.53) rotate(-10.08)"/>
+    </g>
+    <g>
+      <ellipse class="e345b6d2-4646-442b-afff-a91c9a9cb0ae" cx="70.05" cy="17.52" rx="12.09" ry="15.66" transform="matrix(0.96, -0.28, 0.28, 0.96, -2.1, 20.49)"/>
+      <g>
+        <ellipse class="bd1b4efa-486d-48f4-9ef1-635aae90e84e" cx="68.33" cy="21.93" rx="6.77" ry="8.62" transform="matrix(0.96, -0.28, 0.28, 0.96, -3.41, 20.19)"/>
+        <ellipse class="f62123a4-d86c-4648-87ab-b8f0caa46958" cx="68.06" cy="22.54" rx="3.99" ry="5.38" transform="translate(-3.6 20.14) rotate(-16.4)"/>
+        <ellipse class="b52b8684-c508-4333-93e4-c9b84508f4c8" cx="71.52" cy="19.65" rx="1.46" ry="1.55" transform="translate(-1.73 8.02) rotate(-6.34)"/>
+        <circle class="e831df4a-19a2-44c4-8939-faad1ed17104" cx="66.04" cy="16.71" r="2.69"/>
+      </g>
+      <path class="a51d5c7d-e17a-4efd-b7d9-2f5575acdde9" d="M85.59,27.56S74.14,33.84,67.5,37.1C67.5,37.1,77.88,28.68,85.59,27.56Z"/>
+      <ellipse class="ae2513b0-f9a3-448d-8d2d-f03c0834d472" cx="70.05" cy="17.52" rx="12.09" ry="15.66" transform="matrix(0.96, -0.28, 0.28, 0.96, -2.1, 20.49)"/>
+    </g>
+  </g>
+</svg>

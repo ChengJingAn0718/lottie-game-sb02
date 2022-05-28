@@ -1,0 +1,22 @@
+<svg id="b6afec7c-a7fd-4f22-ad93-b8f9856a8420" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="149.65" height="125.65" viewBox="0 0 149.65 125.65">
+  <defs>
+    <style>
+      .f6418ff4-50f7-4a69-b60d-f8528120cee2 {
+        fill: #ffe309;
+        stroke: #665608;
+        stroke-miterlimit: 10;
+        stroke-width: 0.75px;
+      }
+
+      .ffe5ed85-d90a-4d27-b0c2-42718af5e639 {
+        fill: #210a11;
+      }
+    </style>
+  </defs>
+  <g>
+    <ellipse class="f6418ff4-50f7-4a69-b60d-f8528120cee2" cx="36.02" cy="73.81" rx="32.67" ry="24.09" transform="translate(-42.11 99.16) rotate(-81.96)"/>
+    <ellipse class="f6418ff4-50f7-4a69-b60d-f8528120cee2" cx="102.45" cy="76.83" rx="21.91" ry="29.71" transform="translate(-5.88 8.54) rotate(-4.64)"/>
+    <path class="ffe5ed85-d90a-4d27-b0c2-42718af5e639" d="M94.67,32.45s10.1.27,22.57,11.26C117.24,43.71,98.85,15,94.67,32.45Z"/>
+    <path class="ffe5ed85-d90a-4d27-b0c2-42718af5e639" d="M54.75,24.49s-11-1.4-26.76,7.4C28,31.89,53.61,6.55,54.75,24.49Z"/>
+  </g>
+</svg>

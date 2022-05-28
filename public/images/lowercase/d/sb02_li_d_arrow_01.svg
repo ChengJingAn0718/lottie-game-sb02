@@ -1,0 +1,42 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="261.33" height="465.71" viewBox="0 0 261.33 465.71">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-4 {
+        fill: none;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: 3px;
+      }
+
+      .cls-2 {
+        stroke-dasharray: 10.76 10.76;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-4 {
+        stroke-dasharray: 12 12;
+      }
+    </style>
+  </defs>
+  <g>
+    <g>
+      <line class="cls-1" x1="220.57" y1="349.52" x2="220.57" y2="355.53"/>
+      <line class="cls-2" x1="220.57" y1="366.28" x2="220.57" y2="403.94"/>
+      <line class="cls-1" x1="220.57" y1="409.31" x2="220.57" y2="415.31"/>
+      <polygon class="cls-3" points="205.61 410.94 220.57 436.84 235.53 410.94 205.61 410.94"/>
+    </g>
+    <g>
+      <g>
+        <path class="cls-4" d="M206.4,284.13c-12.65-38-131.47-80.38-163.3,29.16"/>
+        <polygon class="cls-3" points="29.74 305.68 38.41 334.31 58.87 312.49 29.74 305.68"/>
+      </g>
+      <g>
+        <path class="cls-4" d="M37.47,341.79s6,87.12,99.85,87.18c37.94,0,70-22.53,81-53,3.85-10.62,2.13-243.51,1.31-317.24"/>
+        <polygon class="cls-3" points="234.54 63.03 219.38 37.24 204.62 63.26 234.54 63.03"/>
+      </g>
+    </g>
+  </g>
+</svg>

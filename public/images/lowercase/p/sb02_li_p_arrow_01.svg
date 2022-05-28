@@ -1,0 +1,21 @@
+<svg id="b34befdf-c24b-419c-ac55-c1754fc74eb5" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="265.71" height="468.57" viewBox="0 0 265.71 468.57">
+  <defs>
+    <style>
+      .a43f9d1b-6aba-4a73-b194-7fb541ce1553 {
+        fill: none;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: 3px;
+        stroke-dasharray: 12 12;
+      }
+
+      .b2df1a5f-2548-4b41-95cb-a220b702f86c {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g>
+    <line class="a43f9d1b-6aba-4a73-b194-7fb541ce1553" x1="41.43" y1="29.79" x2="41.43" y2="420.11"/>
+    <polygon class="b2df1a5f-2548-4b41-95cb-a220b702f86c" points="26.47 415.73 41.43 441.63 56.39 415.73 26.47 415.73"/>
+  </g>
+</svg>

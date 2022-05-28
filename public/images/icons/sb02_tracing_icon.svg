@@ -1,0 +1,32 @@
+<svg id="fb28138d-e83b-46d0-a6f2-5be71fcb5988" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="97" height="97" viewBox="0 0 97 97">
+  <defs>
+    <style>
+      .ae554375-818f-48e3-8ce9-7861ce6f37b4 {
+        opacity: 0.5;
+      }
+
+      .fa288c01-9622-4d70-b327-b6faccaf6cb6 {
+        fill: #ffe9ff;
+        stroke: #323232;
+        stroke-miterlimit: 10;
+      }
+
+      .b900969a-7029-4040-b915-7f049b66bdc6 {
+        fill: url(#b7377345-b21b-42b4-b6e8-34095e6fc867);
+      }
+    </style>
+    <radialGradient id="b7377345-b21b-42b4-b6e8-34095e6fc867" cx="174.38" cy="-464.61" r="26.76" gradientTransform="translate(-199.71 679.86) scale(1.42 1.36)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffe39c"/>
+      <stop offset="0.12" stop-color="#ffdc91"/>
+      <stop offset="0.34" stop-color="#ffc874"/>
+      <stop offset="0.62" stop-color="#ffa744"/>
+      <stop offset="0.95" stop-color="#ff7b03"/>
+      <stop offset="0.96" stop-color="#ff7900"/>
+    </radialGradient>
+  </defs>
+  <g>
+    <ellipse class="ae554375-818f-48e3-8ce9-7861ce6f37b4" cx="48.99" cy="50.83" rx="46.2" ry="44.36"/>
+    <ellipse class="fa288c01-9622-4d70-b327-b6faccaf6cb6" cx="48.01" cy="46.17" rx="46.2" ry="44.36"/>
+    <ellipse class="b900969a-7029-4040-b915-7f049b66bdc6" cx="48.01" cy="46.17" rx="38.83" ry="37.28"/>
+  </g>
+</svg>
