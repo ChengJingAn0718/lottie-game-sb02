@@ -20,7 +20,7 @@ backAudio.volume = .12;
 // let primaryAudio = loadSound('SB03_01')
 // let titleAudio = loadSound('SB03_02')
 
-document.title = "Trace Letter " + letterTurnList[currentSceneNumber].toLocaleLowerCase()
+// document.title = "Trace Letter " + letterTurnList[currentSceneNumber].toLocaleLowerCase()
 
 let bodyAudio1 = loadSound('woo', true)
 let bodyAudio2 = loadSound('woo', true)
