@@ -108,7 +108,7 @@ export default React.forwardRef(function LetterExplain({ nextFunc, audioList, _g
     }
 
     function zoomFunc() {
-        moveFunc(backgroundRef, durationList[2], 'scale(0.8) translate(-15%,-25%)')
+        moveFunc(backgroundRef, durationList[2], 'scale(0.8) translate(-15%,-13%)')
 
         timerList[4] = setTimeout(() => {
             nextFunc()
@@ -163,7 +163,7 @@ export default React.forwardRef(function LetterExplain({ nextFunc, audioList, _g
                                     position: 'absolute',
                                     width: '15%',
                                     left: '20%',
-                                    bottom: '40%',
+                                    bottom: '25%',
                                     pointerEvents: 'none',
                                     overflow: 'visible',
                                     transform: 'scale(' + animationScaleList[index].s +

@@ -1,7 +1,7 @@
 
 export const currentSceneNumber = 14;
 
-// ee02_ls_z_tr/
+// ee02_ls_o_tr/
 
 const letterTurnList = [
     'a', 'b', 'c', 'd', 'e', 'f', 'g',
