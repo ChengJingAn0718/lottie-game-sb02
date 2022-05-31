@@ -1,5 +1,5 @@
 
-export const currentSceneNumber = 20;
+export const currentSceneNumber = 19;
 
 // ee02_ls_o_tr/
 
