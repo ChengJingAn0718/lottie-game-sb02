@@ -1,5 +1,5 @@
 
-export const currentSceneNumber = 10;
+export const currentSceneNumber = 14;
 
 // ee02_ls_o_tr/
 
@@ -1574,7 +1574,7 @@ const showingLayoutList = [
     //O
     [
         {
-            s: 1.6, r: -0.3, b: 0.2
+            s: 1.6, r: -0.6, b: 0.2
         },
         {
             s: 1, r: -0.0, b: 0.2
@@ -1672,7 +1672,7 @@ const showingLayoutList = [
     //W
     [
         {
-            s: 1.2, r: -0.1, b: 0.1
+            s: 1.2, r: -0.2, b: 0.1
         },
         {
             s: 0.8, r: 0.05, b: 0.3
@@ -1794,7 +1794,7 @@ const textInfoList = [
         { text: 'net', left: -15 }
     ],
     [
-        { text: 'orange', left: -5 },
+        { text: 'orange', left: 19 },
         { text: 'ostrich', left: -3 },
         { text: 'octopus', left: 0 }
     ],
@@ -1841,7 +1841,7 @@ const textInfoList = [
     ],
 
     [
-        { text: 'watermelon', left: -6 },
+        { text: 'watermelon', left: 10 },
         { text: 'watch', left: 0 },
         { text: 'walnut', left: 0 }
     ],

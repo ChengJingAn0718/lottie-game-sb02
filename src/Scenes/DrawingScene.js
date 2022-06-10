@@ -1848,7 +1848,7 @@ export default function Scene({ nextFunc, _geo, startTransition, audioList, curr
                     {
                         !textInfoList[letterNum][currentImgNumOriginal].isLast
                             ? <span >
-                                <div style={{ color: 'red', display: 'inline-block' }}>{textInfoList[letterNum][currentImgNumOriginal].text[0]}</div>
+                                <div style={{ color: 'red', display: 'inline' }}>{textInfoList[letterNum][currentImgNumOriginal].text[0]}</div>
                                 <span style={{ color: 'black' }}>{textInfoList[letterNum][currentImgNumOriginal].text.replace('_', ' ').slice(1)}</span>
                             </span>
                             : <span style={{ color: 'black' }}>{textInfoList[letterNum][currentImgNumOriginal].text.replace('_', ' ').slice(0, textInfoList[letterNum][currentImgNumOriginal].text.length - 1)}
@@ -1887,7 +1887,7 @@ export default function Scene({ nextFunc, _geo, startTransition, audioList, curr
                             {
                                 !textInfoList[letterNum][value].isLast
                                     ? <span>
-                                        <div style={{ color: 'red', display: 'inline-block' }}>{textInfoList[letterNum][value].text[0]}
+                                        <div style={{ color: 'red', display: 'inline' }}>{textInfoList[letterNum][value].text[0]}
                                         </div>
                                         <span style={{ color: 'black' }}>{textInfoList[letterNum][value].text.replace('_', ' ').slice(1)}</span>
                                     </span>
